@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">BoostGallery</string>
+    <string name="main_activity_dialog_title">Loading Photos</string>
+</resources>

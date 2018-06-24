@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gridview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animationCache="false"
+    android:clickable="true"
+    android:focusable="true"
+    android:gravity="center"
+    android:numColumns="2"
+    android:scrollingCache="false"
+    android:stretchMode="columnWidth" />
